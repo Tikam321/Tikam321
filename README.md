@@ -35,26 +35,42 @@
 ---
 
 ## 🚀 Projects
+🔹 Jira Automation Tool
 
-### 🔹 Resume-Mate (AI Powered Resume Analyzer)
+An LLM-powered assistant that automates Jira operations using AI function calling, reducing manual effort in project management workflows.
 
-An AI-based application to analyze resumes against job descriptions.
+Key Features
 
-**Key Features**
+Create, update, assign, and transition Jira issues using natural language
+Bulk ticket updates through AI-powered function calling
+Intelligent integration with Jira REST APIs
+Streamlined repetitive project management tasks
 
-* Resume PDF text extraction
-* Job–resume match score
-* Skill gap analysis
-* Improvement suggestions
-* AI-generated cold email
+Tech Used
 
-**Tech Used**
+Python
+FastAPI
+OpenAI LLM
+Function Calling
+Jira REST API
+🔹 AutoGen PR Review Agent
 
-* Node.js, React
-* PDF parsing
-* GenAI (LLM integration)
+A multi-agent AI system that automates pull request analysis, code review, and GitHub workflow using Microsoft AutoGen.
 
----
+Key Features
+
+Multi-agent collaboration for code analysis
+AI-generated pull request review comments
+Automated bug detection and code improvement suggestions
+GitHub Pull Request automation workflow
+Extensible architecture for repository maintenance
+
+Tech Used
+
+Python
+Microsoft AutoGen
+GitHub API
+Large Language Models (LLMs)
 
 ### 🔹 Kafka Architecture Project
 
