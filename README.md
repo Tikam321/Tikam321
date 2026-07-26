@@ -75,13 +75,4 @@ Large Language Models (LLMs)
 
 ---
 
-## 🧠 Currently Working On
-
-* 🚀 Building an **AI SaaS product** from scratch
-* 🧩 Machine coding & Low Level Design (LLD) practice
-* 🏗️ Improving system design & distributed systems knowledge
-
----
-
 📫 **GitHub**: [https://github.com/Tikam321](https://github.com/Tikam321)
-
