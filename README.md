@@ -73,22 +73,6 @@ Microsoft AutoGen
 GitHub API
 Large Language Models (LLMs)
 
-### 🔹 Kafka Architecture Project
-
-A backend-focused project to understand Kafka in real-world scenarios.
-
-**Key Concepts Covered**
-
-* Producer & consumer design
-* Partitioning & consumer groups
-* Message ordering & offsets
-* Async processing & scalability
-
-**Tech Used**
-
-* Java
-* Apache Kafka
-
 ---
 
 ## 🧠 Currently Working On
